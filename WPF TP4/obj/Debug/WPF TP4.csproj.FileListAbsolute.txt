@@ -1,0 +1,13 @@
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\bin\Debug\WPF TP4.exe.config
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\bin\Debug\WPF TP4.exe
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\bin\Debug\WPF TP4.pdb
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\WPF TP4.csprojResolveAssemblyReference.cache
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\MainWindow.baml
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\MainWindow.g.cs
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\App.g.cs
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\WPF TP4_MarkupCompile.cache
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\WPF TP4.g.resources
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\WPF_TP4.Properties.Resources.resources
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\WPF TP4.csproj.GenerateResource.Cache
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\WPF TP4.exe
+D:\Nouveau dossier\cours de génie\Lab4\WPF TP4\WPF TP4\obj\Debug\WPF TP4.pdb
